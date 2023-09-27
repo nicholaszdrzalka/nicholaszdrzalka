@@ -1,7 +1,12 @@
 # Hi, I'm Nick👋
 
-**Computer Science Graduate from DePaul University pursuing a career in SWE**
-
+**Computer Science Graduate pursuing a career in SWE**
+I am a recent graduate from DePaul University with a B.S. in Computer Science.
+I've accumulated a passion for writing code, specifically in projects revolving around AI.
+I was fortunate enough to have the opportunity to implement ChatGPT's API into
+my Senior Capstone project and learned about the boundaries and limitations it had.
+After that experience it made me curious what limitations other AI had
+and what could be done to resolve them.
 <!--
 **swyftcs/swyftcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
