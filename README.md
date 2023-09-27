@@ -1,6 +1,7 @@
 # Hi, I'm Nick👋
 
 **Computer Science Graduate pursuing a career in SWE**
+\n
 I am a recent graduate from DePaul University with a B.S. in Computer Science.
 I've accumulated a passion for writing code, specifically in projects revolving around AI.
 I was fortunate enough to have the opportunity to implement ChatGPT's API into
