@@ -1,6 +1,6 @@
 # Hi, I'm Nick👋
 
-**'Computer Science Graduate from DePaul University pursuing a career in SWE'**
+**Computer Science Graduate from DePaul University pursuing a career in SWE**
 
 <!--
 **swyftcs/swyftcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
