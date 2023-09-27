@@ -16,8 +16,7 @@ my Senior Capstone project and learned about the boundaries and limitations it h
 After that experience it made me curious what limitations other AI had
 and what could be done to resolve them.</p>
 </div>
-<br>
-<a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/" align="center">LinkedIn Profile</a>
+<p align="center"><a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/">LinkedIn Profile</a></p>
 
 ### 🧰 Languages and Tools
 
