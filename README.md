@@ -7,7 +7,7 @@
 </p>
 
 **`Computer Science Graduate pursuing a career in SWE`**
-<h4 alt="LinkedIn Profile">https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/</h4>
+<a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/">LinkedIn Profile</a>
 
 <div align="center">
 <p>I am a recent graduate from DePaul University with a B.S. in Computer Science.
