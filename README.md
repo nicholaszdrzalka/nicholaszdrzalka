@@ -7,12 +7,12 @@
 </p>
 
 
-**Computer Science Graduate pursuing a career in SWE**
-\n
-I am a recent graduate from DePaul University with a B.S. in Computer Science.
+<h1>Computer Science Graduate pursuing a career in SWE</h1>
+<br>
+<h2>I am a recent graduate from DePaul University with a B.S. in Computer Science.
 I've accumulated a passion for writing code, specifically in projects revolving around AI.
 I was fortunate enough to have the opportunity to implement ChatGPT's API into
 my Senior Capstone project and learned about the boundaries and limitations it had.
 After that experience it made me curious what limitations other AI had
-and what could be done to resolve them.
+and what could be done to resolve them.</h2>
 
