@@ -8,6 +8,7 @@
 
 **`Computer Science Graduate pursuing a career in SWE`**
 <br>
+<br>
 <a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/">LinkedIn Profile</a>
 
 <div align="center">
