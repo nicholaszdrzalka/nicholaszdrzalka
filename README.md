@@ -7,9 +7,6 @@
 </p>
 
 **`Computer Science Graduate pursuing a career in SWE`**
-<br>
-<br>
-<a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/">LinkedIn Profile</a>
 
 <div align="center">
 <p>I am a recent graduate from DePaul University with a B.S. in Computer Science.
@@ -19,6 +16,8 @@ my Senior Capstone project and learned about the boundaries and limitations it h
 After that experience it made me curious what limitations other AI had
 and what could be done to resolve them.</p>
 </div>
+<br>
+<a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/" align="center">LinkedIn Profile</a>
 
 ### 🧰 Languages and Tools
 
