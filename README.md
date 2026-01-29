@@ -1,9 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=A623E1&center=true&repeat=false&width=435&lines=Nicholas+Zdrzalka" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A2EAC&width=435&lines=Software+Tinkerer;Human+Baseline+Model;Edge+Case+Specialist;Still+Shipping+Without+Hallucinations" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=45C3B3&center=true&width=435&lines=Nicholas+Zdrzalka" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45C3B3&center=true&width=435&lines=Software+Tinkerer;Human+Baseline+Model;Edge+Case+Specialist;Hallucination-free+Builds" alt="Typing SVG" /></a>
 </p>
 
 **`AI-Adjacent Software Engineer`**
