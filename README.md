@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A623E1&center=true&width=435&lines=Computer+Science+Graduate;Pursuing+SWE+Career;Learning+new+things+%26+improving" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A2EAC&width=435&lines=Software+Tinkerer;Human+Baseline+Model;Edge+Case+Specialist;Still+Shipping+Without+Hallucinations" alt="Typing SVG" /></a>
 </p>
 
-**`Software Tinkerer`**
+**`AI-Adjacent Software Engineer`**
 
 <div align="center">
 <p>Software tinkerer with a CS background and too many side projects.
