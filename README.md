@@ -6,15 +6,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A623E1&center=true&width=435&lines=Computer+Science+Graduate;Pursuing+SWE+Career;Learning+new+things+%26+improving" alt="Typing SVG" /></a>
 </p>
 
-**`Computer Science Graduate pursuing a career in SWE`**
+**`Software Tinkerer`**
 
 <div align="center">
-<p>I am a recent graduate from DePaul University with a B.S. in Computer Science.
-I've accumulated a passion for writing code, specifically in projects revolving around AI.
-I was fortunate enough to have the opportunity to implement ChatGPT's API into
-my Senior Capstone project and learned about the boundaries and limitations it had.
-After that experience it made me curious what limitations other AI had
-and what could be done to resolve them.</p>
+<p>Software tinkerer with a CS background and too many side projects.
+Linux Curious, Windows constrained.
+Growing in tech, experimenting across stacks, and seeing how far I can push myself—and AI.</p>
 </div>
 <p align="center"><a href="https://www.linkedin.com/in/nicholas-zdrzalka-b64786209/">LinkedIn Profile</a></p>
 
